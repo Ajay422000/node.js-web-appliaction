@@ -1,0 +1,6 @@
+region        = "ap-south-1"
+environment   = "dev"
+instance_type = "t2.micro"
+project_name  = "DevOpsAssessment"
+owner         = "Ajay"
+db_password = "Ajay@2000"

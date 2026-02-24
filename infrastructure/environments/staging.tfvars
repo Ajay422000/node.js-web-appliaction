@@ -1,0 +1,5 @@
+region        = "ap-south-1"
+environment   = "staging"
+instance_type = "t2.small"
+project_name  = "DevOpsAssessment"
+owner         = "Ajay"

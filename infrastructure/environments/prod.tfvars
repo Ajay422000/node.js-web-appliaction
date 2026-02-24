@@ -1,0 +1,5 @@
+region        = "ap-south-1"
+environment   = "prod"
+instance_type = "t3.medium"
+project_name  = "DevOpsAssessment"
+owner         = "Ajay"
